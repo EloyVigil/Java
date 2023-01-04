@@ -1,0 +1,17 @@
+* {
+	padding: o;
+	margin: 0;
+}
+
+#maincontainer{
+	height: 400px;
+	width: 600px;
+	background-color: lightblue;
+	margin:0 auto;
+}
+
+#table{
+	height: 100%;
+	width: 100%;
+	background-color: gold;
+}
